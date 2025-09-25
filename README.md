@@ -14,5 +14,7 @@
     ```
     pip install -r requirements.txt
 
-5. 
+5. Run the code
+    ```
+    streamlit run app.py
 
